@@ -1,2 +1,2 @@
 # NewsletterProject1
-this project is what im going to use to leaarn stuff about css and html
+im gonna use these projects to learn more about web development i thought to post it here so i can look back at it and feel nostalgic
